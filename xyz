@@ -1,3 +1,4 @@
 a
 b
 int a_b
+print (a);
