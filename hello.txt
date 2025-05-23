@@ -6,3 +6,7 @@ void main ()
 getch();
 }
 this  is new one 
+this is  used for the second one 
+
+hiiii
+hello please add 
